@@ -1,0 +1,30 @@
+.view-book-section{
+    width: 100%;
+    margin: 50px auto !important;
+    padding: 0px 50px;
+    margin-bottom: 100px;
+}
+
+.view-article-layout{
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    margin-bottom: 100px;
+}
+.view-book-section .image-container{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    padding-top: 10px;
+}
+
+.view-book-section .image-container img{
+    height: auto;
+    width: 100%;
+    object-fit: contain;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+  }
