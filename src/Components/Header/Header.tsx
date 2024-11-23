@@ -26,7 +26,8 @@ const Header = () => {
       <Container>
         <Navbar.Brand href="#" className="text-light">
           <span className="heading-font">
-            <a className="color-white" href="/">
+            <a className="color-white d-flex align-items-center gap-2" href="/">
+            <img src="https://i.ibb.co/5hbyTsd/2232688.png" alt="" width="50px" height="auto" />
               BookHunt
             </a>
           </span>
